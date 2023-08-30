@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  color: #fbb661;
+}
+
+.container {
+  font-size: 4rem;
+  font-style: italic;
 }
 
 .App-logo {
@@ -36,3 +42,4 @@
     transform: rotate(360deg);
   }
 }
+
